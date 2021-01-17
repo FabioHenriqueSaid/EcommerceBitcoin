@@ -1,0 +1,15 @@
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\bin\Debug\netcoreapp3.1\Ecommerce.Data.deps.json
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\bin\Debug\netcoreapp3.1\Ecommerce.Data.dll
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\netcoreapp3.1\Ecommerce.Data.csprojAssemblyReference.cache
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\netcoreapp3.1\Ecommerce.Data.AssemblyInfoInputs.cache
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\netcoreapp3.1\Ecommerce.Data.AssemblyInfo.cs
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\bin\Debug\netcoreapp3.1\Ecommerce.Domain.dll
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\bin\Debug\netcoreapp3.1\Ecommerce.Data.runtimeconfig.json
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\bin\Debug\netcoreapp3.1\Ecommerce.Data.runtimeconfig.dev.json
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\bin\Debug\netcoreapp3.1\Ecommerce.Data.pdb
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\bin\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\netcoreapp3.1\Ecommerce.Data.csproj.CoreCompileInputs.cache
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\netcoreapp3.1\Ecommerce.Data.csproj.CopyComplete
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\netcoreapp3.1\Ecommerce.Data.dll
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\netcoreapp3.1\Ecommerce.Data.pdb
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\netcoreapp3.1\Ecommerce.Data.genruntimeconfig.cache

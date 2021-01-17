@@ -1,0 +1,12 @@
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.deps.json
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.dll
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.csprojAssemblyReference.cache
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.AssemblyInfo.cs
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.dll
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.runtimeconfig.json
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.runtimeconfig.dev.json
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fh\source\repos\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.genruntimeconfig.cache
